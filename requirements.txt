@@ -1,0 +1,9 @@
+openai
+langchain
+python-dotenv
+faiss-cpu
+sentence-transformers
+streamlit
+flake8
+black
+isort
