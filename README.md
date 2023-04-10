@@ -7,6 +7,7 @@
 This Python script is non-poetry version of the [babyagi-streamlit](https://github.com/dory111111/babyagi-streamlit) for those not familiar with poetry setup/run.  This code base is inspired by BabyAGI, see Acknowledgements section below.
 
 # Demo
+[streamlit-babyagi-2023-04-09-20-04-52.webm](https://user-images.githubusercontent.com/67872688/230803873-b744c9e2-d516-4e5d-9ef2-67f934b9b35c.webm)
 
 # Installation
 Install the required packages:
